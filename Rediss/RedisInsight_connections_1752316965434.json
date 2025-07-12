@@ -1,0 +1,46 @@
+[
+  {
+    "compressor": "NONE",
+    "id": "8f2555e3-425f-4887-bf5c-9fca41a7bc3b",
+    "host": "redis-10719.c265.us-east-1-2.ec2.redns.redis-cloud.com",
+    "port": 10719,
+    "name": "dbtugas3",
+    "db": null,
+    "username": null,
+    "password": "tugas3",
+    "connectionType": "STANDALONE",
+    "nameFromProvider": "dbtugas3",
+    "provider": "RE_CLOUD",
+    "lastConnection": "2025-07-12T09:46:49.624Z",
+    "modules": [
+      {
+        "name": "bf",
+        "version": 20807,
+        "semanticVersion": "2.8.7"
+      },
+      {
+        "name": "timeseries",
+        "version": 11207,
+        "semanticVersion": "1.12.7"
+      },
+      {
+        "name": "searchlight",
+        "version": 21017
+      },
+      {
+        "name": "ReJSON",
+        "version": 20810,
+        "semanticVersion": "2.8.10"
+      }
+    ],
+    "tls": null,
+    "tlsServername": null,
+    "verifyServerCert": null,
+    "caCert": null,
+    "clientCert": null,
+    "ssh": null,
+    "sshOptions": null,
+    "forceStandalone": null,
+    "tags": []
+  }
+]

@@ -1,0 +1,23 @@
+[{
+  "_id": "produk1",
+  "nama": "Lipstik Matte",
+  "kategori": "makeup",
+  "deskripsi": "Lipstik tahan lama dengan warna matte.",
+  "harga": 75000,
+  "tags": [
+    "matte",
+    "tahanlama",
+    "populer"
+  ]
+},
+{
+  "_id": "produk2",
+  "nama": "Serum Wajah",
+  "kategori": "skincare",
+  "deskripsi": "Serum wajah untuk kulit cerah dan sehat.",
+  "harga": 95000,
+  "tags": [
+    "serum",
+    "whitening"
+  ]
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": "user123",
+  "nama": "Ami",
+  "riwayat_pembelian": [
+    "produk1",
+    "produk2"
+  ],
+  "produk_dilihat": [
+    "produk3",
+    "produk4"
+  ],
+  "preferensi": [
+    "skincare",
+    "lipstik"
+  ]
+}]
